@@ -13,26 +13,26 @@ Software Developer specializing in Python and C++, with experience in web applic
 - **Tools:** Git, Docker, Linux
 
 ### 📌 Featured Projects
-**[E-commerce]**
+**E-commerce**
 A full-stack e-commerce web application with product listing, shopping cart, checkout, and order management functionalities. Built with Django, PostgreSQL, and JavaScript to create a responsive and dynamic shopping experience.
-(https://github.com/CodinSupreme/E-commerce)
+[View Repository](https://github.com/CodinSupreme/E-commerce)
 
 **Hotel Management Sytem**  
-A web-based system for managing hotel operations including room booking, check-in/check-out, and customer management. Developed using Django and PostgreSQL, it allows hotel staff to efficiently track reservations, payments, and room availability.
+A web-based system for managing hotel operations including room booking, check-in/check-out, and customer management. Developed using Django and PostgreSQL, it allows hotel staff to efficiently track reservations, payments, and room availability.  
 [View Repository](https://github.com/CodinSupreme/Hotel_management_system)
 
 <!--
 **Campus Connect**  
-A platform designed to connect students, faculty, and campus resources. Includes features such as announcements, event notifications, and discussion forums. Built with Django, HTML/CSS, and JavaScript, it enhances communication and collaboration within a campus environment.
+A platform designed to connect students, faculty, and campus resources. Includes features such as announcements, event notifications, and discussion forums. Built with Django, HTML/CSS, and JavaScript, it enhances communication and collaboration within a campus environment.  
 [View Repository](https://github.com/yourusername/django-social-media-app)
 -->
 
 **AI Pathfinder**  
-An algorithmic project that finds the shortest path in a grid or graph using AI techniques. Implemented in Python, it leverages pathfinding algorithms like A and Dijkstra* to navigate through obstacles efficiently. Useful for robotics, games, and AI simulations.
+An algorithmic project that finds the shortest path in a grid or graph using AI techniques. Implemented in Python, it leverages pathfinding algorithms like A and Dijkstra* to navigate through obstacles efficiently. Useful for robotics, games, and AI simulations.  
 [View Repository](https://github.com/CodinSupreme/AI-pathfinder)
 
 **Machine Learning Linear Regression Algorithm**  
-A Python implementation of linear regression from scratch using NumPy, demonstrating the fundamentals of machine learning. Includes forward propagation, loss calculation, and gradient descent optimization to predict continuous values from input data.
+A Python implementation of linear regression from scratch using NumPy, demonstrating the fundamentals of machine learning. Includes forward propagation, loss calculation, and gradient descent optimization to predict continuous values from input data.  
 [View Repository](https://github.com/CodinSupreme/Machine-Learning-Regression-algorithm)
 
 <!--
