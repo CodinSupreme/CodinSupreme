@@ -8,7 +8,7 @@ Software Developer specializing in Python and C++, with experience in web applic
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, JavaScript
 - **Web:** HTML, CSS, Django
-- **Machine Learning:** TensorFlow, NumPy
+- **Machine Learning:** TensorFlow, NumPy, Pandas
 - **Databases:** PostgreSQL
 - **Tools:** Git, Docker, Linux
 
