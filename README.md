@@ -13,9 +13,9 @@ Software Developer specializing in Python and C++, with experience in web applic
 - **Tools:** Git, Docker, Linux
 
 ### 📌 Featured Projects
-**E-commerce** 
+**[E-commerce]**
 A full-stack e-commerce web application with product listing, shopping cart, checkout, and order management functionalities. Built with Django, PostgreSQL, and JavaScript to create a responsive and dynamic shopping experience.
-[View Repository](https://github.com/CodinSupreme/E-commerce)
+(https://github.com/CodinSupreme/E-commerce)
 
 **Hotel Management Sytem**  
 A web-based system for managing hotel operations including room booking, check-in/check-out, and customer management. Developed using Django and PostgreSQL, it allows hotel staff to efficiently track reservations, payments, and room availability.
