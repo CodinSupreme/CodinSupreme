@@ -14,7 +14,7 @@ Software Developer specializing in Python and C++, with experience in web applic
 
 ### 📌 Featured Projects
 **E-commerce**
-A full-stack e-commerce web application with product listing, shopping cart, checkout, and order management functionalities. Built with Django, PostgreSQL, and JavaScript to create a responsive and dynamic shopping experience.
+A full-stack e-commerce web application with product listing, shopping cart, checkout, and order management functionalities. Built with Django, PostgreSQL, and JavaScript to create a responsive and dynamic shopping experience.  
 [View Repository](https://github.com/CodinSupreme/E-commerce)
 
 **Hotel Management Sytem**  
