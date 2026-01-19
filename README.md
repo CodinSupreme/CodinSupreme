@@ -35,6 +35,10 @@ An algorithmic project that finds the shortest path in a grid or graph using AI 
 A Python implementation of linear regression from scratch using NumPy, demonstrating the fundamentals of machine learning. Includes forward propagation, loss calculation, and gradient descent optimization to predict continuous values from input data.  
 [View Repository](https://github.com/CodinSupreme/Machine-Learning-Regression-algorithm)
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
 <!--
 **CodinSupreme/CodinSupreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
